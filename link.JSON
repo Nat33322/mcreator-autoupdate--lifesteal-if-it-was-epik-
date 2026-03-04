@@ -1,0 +1,9 @@
+{
+  "homepage": "https://mcreator.net/modification/122114/lifesteal-if-it-was-epik-not-be-distributed",
+  "promos": {
+    "1.21.8-latest": "3.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.21.8-recommended": "3.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+  }
+}
